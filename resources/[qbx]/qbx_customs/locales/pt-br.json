@@ -1,0 +1,93 @@
+{
+    "notifications": {
+        "success": {
+            "repaired": "Veículo reparado!",
+            "paid": "Você pagou $%s da sua conta bancária"
+        },
+        "error": {
+            "money": "Você não tem dinheiro suficiente!",
+            "alreadyInstalled": "Você já tem esse mod instalado"
+        },
+        "props": {
+            "installTitle": "Customs"
+        }
+    },
+    "dragCam": {
+        "zoomIn": "Aumentar zoom",
+        "zoomOut": "Diminuir zoom",
+        "toggleDoors": "Alternar portas",
+        "changeView": "Alternar visão em primeira pessoa"
+    },
+    "textUI": {
+        "tune":  "Pressione [E] para ajustar seu carro"
+    },
+    "menus": {
+        "main": {
+            "title": "Popcorn Customs",
+            "repair": "Reparar",
+            "performance": "Performance",
+            "parts": "Cosméticos - Peças",
+            "colors": "Cosméticos - Cores",
+            "extras": "Extras"
+        },
+        "colors": {
+            "primary": "Pintar primário",
+            "secondary": "Pintar secundário",
+            "neon": "Neon",
+            "cosmetics_colors": "Cosméticos - Cores"
+        },
+        "neon": {
+            "title": "Neon",
+            "neon": "Neon %s%s",
+            "color": "Cor do neon",
+            "installed": "%s neon instalado"
+        },
+        "paint": {
+            "title": "Cosméticos - Cores",
+            "primary": "Pintura primária",
+            "secondary": "Pintura secundária"
+        },
+        "parts": {
+            "title": "Cosméticos - Peças",
+            "wheels": "Rodas"
+        },
+        "performance": {
+            "title": "Performance",
+            "turbo": "Turbo"
+        },
+        "wheels": {
+            "title": "Rodas",
+            "bikeRear": "Roda traseira de bicicleta",
+            "installed": "%s %s instalado"
+        },
+        "options": {
+            "interior": "Interior",
+            "livery": "Adesivo",
+            "pearlescent": "Perolado",
+            "plateIndex": {
+                "title": "Índice da placa",
+                "installed": "%s placa instalada"
+            },
+            "tyreSmoke": "Fumaça dos pneus",
+            "wheelColor": "Cor da roda",
+            "windowTint": {
+                "title": "Película dos vidros",
+                "installed": "%s vidros instalados"
+            },
+            "xenon": {
+                "title": "Xenon",
+                "installed": "%s xenon instalado"
+            }
+        },
+        "general": {
+            "stock": "Original",
+            "enabled": "Ativado",
+            "disabled": "Desativado",
+            "installed": "%s instalado",
+            "applied": "%s aplicado"
+        }
+    },
+    "general": {
+        "payReason": "Customs"
+    }
+}
